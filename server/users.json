@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "customerId": "1234",
+      "customerName": "Raju",
+      "customerPin": 9899,
+      "customerAccountType": "savings",
+      "customerAccountNo": 8765678,
+      "customerAccountBalance": "12,450",
+      "customerAadhar": 12345678,
+      "customerPan": 12345678,
+      "customerContact": 123456789,
+      "customerEmail": "raju@email.com",
+      "customerTransactions": [
+        {
+          "transactionId": 1466,
+          "transactionDate": "12/02/2023",
+          "transactionAmount": 5500,
+          "transactionType": "debit"
+        },
+        {
+          "transactionId": 1231,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 3200,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1876,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 7800,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1942,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 6700,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1967,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 5400,
+          "transactionType": "credit"
+        }
+      ]
+    },
+    {
+      "customerId": 5678,
+      "customerName": "Kumar",
+      "customerPin": 8787,
+      "customerAccountType": "current",
+      "customerAccountNo": 345433245,
+      "customerAccountBalance": "26,765",
+      "customerAadhar": 1222223444,
+      "customerPan": 111111111122,
+      "customerContact": 123456789,
+      "customerEmail": "kumar@email.com",
+      "customerTransactions": [
+        {
+          "transactionId": 1655,
+          "transactionDate": "12/02/2023",
+          "transactionAmount": 3500,
+          "transactionType": "debit"
+        },
+        {
+          "transactionId": 1756,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 5500,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1942,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 6700,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1967,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 5400,
+          "transactionType": "credit"
+        }
+      ]
+    },
+    {
+      "customerId": "91011",
+      "customerName": "Ram",
+      "customerPin": 9797,
+      "customerAccountType": "savings",
+      "customerAccountNo": 87656564,
+      "customerAccountBalance": "12,240",
+      "customerAadhar": 12345678,
+      "customerPan": 12345678,
+      "customerContact": 123456789,
+      "customerEmail": "ram@email.com",
+      "customerTransactions": [
+        {
+          "transactionId": 1543,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 5200,
+          "transactionType": "debit"
+        },
+        {
+          "transactionId": 1231,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 3200,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1876,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 7800,
+          "transactionType": "credit"
+        }
+      ]
+    },
+    {
+      "customerId": "121314",
+      "customerName": "Gopal",
+      "customerPin": 5656,
+      "customerAccountType": "current",
+      "customerAccountNo": 87656564,
+      "customerAccountBalance": "56,240",
+      "customerAadhar": 12345678,
+      "customerPan": 12345678,
+      "customerContact": 123456789,
+      "customerEmail": "gopal@email.com",
+      "customerTransactions": [
+        {
+          "transactionId": 1346,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 7500,
+          "transactionType": "debit"
+        },
+        {
+          "transactionId": 1231,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 3200,
+          "transactionType": "credit"
+        },
+        {
+          "transactionId": 1876,
+          "transactionDate": "13/02/2023",
+          "transactionAmount": 7800,
+          "transactionType": "credit"
+        }
+      ]
+    }
+  ]
+}
